@@ -1,0 +1,37 @@
+2023-12-14 13:01:36 DEBUG TelegramBot:30 - This is your message: Hello
+2023-12-14 13:13:35 DEBUG TelegramBot:33 - Text message: Hello, bot
+ 2023-12-14 13:13:35 ERROR TelegramBot:46 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+ 2023-12-14 13:24:54 DEBUG TelegramBot:33 - Text message: Hello, TelegramBot
+ 2023-12-14 13:25:45 DEBUG TelegramBot:33 - Text message: .
+ 2023-12-14 13:26:30 DEBUG TelegramBot:33 - Text message: .
+ 2023-12-14 13:27:31 DEBUG TelegramBot:33 - Text message: /start
+ 2023-12-14 13:32:06 DEBUG TelegramBot:33 - Text message: Кто
+ 2023-12-14 15:35:52 DEBUG TelegramBot:33 - Text message: .
+ 2023-12-14 15:52:35 DEBUG TelegramBot:45 - Text message: /start
+ 2023-12-14 15:53:02 DEBUG TelegramBot:45 - Text message: f
+ 2023-12-14 15:53:53 DEBUG TelegramBot:45 - Text message: Может ты
+ 2023-12-14 15:54:16 DEBUG TelegramBot:45 - Text message: Нет
+ 2023-12-14 15:54:38 DEBUG TelegramBot:45 - Text message: Заткнись
+ 2023-12-14 15:57:41 DEBUG TelegramBot:45 - Text message: а
+ 2023-12-19 10:32:26 DEBUG UpdateProducerImpl:13 - Всем привет
+ 2023-12-19 10:42:05 ERROR UpdateController:37 - Unsupported message type is received: Update(updateId=68259187, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=33, from=User(id=453931534, firstName=Timur, isBot=false, lastName=Valeev, userName=timur_valeev831, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1702971146, chat=Chat(id=453931534, type=private, title=null, firstName=Timur, lastName=Valeev, userName=timur_valeev831, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Всем привет?, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1702971725, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+ 2023-12-19 10:50:59 DEBUG UpdateProducerImpl:13 - 
+ 2023-12-19 14:16:33 DEBUG UpdateProducerImpl:20 - Hello, Bot
+ 2023-12-19 16:33:16 DEBUG UpdateProducerImpl:20 - Hello
+ 2023-12-19 16:34:09 DEBUG UpdateProducerImpl:20 - F
+ 2023-12-19 16:36:24 DEBUG UpdateProducerImpl:20 - Hello
+ 2023-12-19 16:37:04 DEBUG UpdateProducerImpl:20 - Hello
+ 2023-12-19 16:40:37 DEBUG UpdateProducerImpl:20 - Hello
+ 2023-12-19 16:49:08 DEBUG UpdateProducerImpl:20 - Hi
+ 2023-12-19 16:50:48 DEBUG UpdateProducerImpl:20 - Hello
+ 2023-12-20 10:09:59 DEBUG UpdateProducerImpl:20 - A
+ 2023-12-20 14:28:10 DEBUG UpdateProducerImpl:20 - Hi
+ 2023-12-20 14:46:38 DEBUG UpdateProducerImpl:20 - О, привет
+ 2023-12-20 14:47:06 DEBUG UpdateProducerImpl:20 - G
+ 2023-12-20 14:47:50 DEBUG UpdateProducerImpl:20 - О, привет
+ 2023-12-20 14:48:34 DEBUG UpdateProducerImpl:20 - О, привет
+ 2023-12-20 14:51:06 DEBUG UpdateProducerImpl:20 - 777
+ 2023-12-20 16:50:35 DEBUG UpdateProducerImpl:20 - Как тебя зовут?
+ 2023-12-20 16:50:43 DEBUG UpdateProducerImpl:20 - Сколько тебе лет?
+ 2023-12-20 16:51:55 DEBUG UpdateProducerImpl:20 - Хай
+ 
